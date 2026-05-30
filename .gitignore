@@ -1,0 +1,7 @@
+# 绝不提交:真实上游端点缓存、原始抓包(含真实 prompt)、settings 备份
+data/upstream.txt
+**/capture.jsonl
+**/capture_raw.jsonl
+*.capbak
+__pycache__/
+*.pyc
